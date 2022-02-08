@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ASP.NET Web Frameworks team.
-- 💬 Ask me about: ASP.NET
+- 💬 Ask me about: ASP.NET, Orleans, .NET
 
 <!--
 **brunolins16/brunolins16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
