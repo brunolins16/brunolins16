@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Azure Core (Control Plane) team.
-- 💬 Ask me about: ASP.NET, Orleans, .NET
+- 💬 Ask me about: ASP.NET, Orleans, .NET, Azure
 
 <!--
 **brunolins16/brunolins16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
