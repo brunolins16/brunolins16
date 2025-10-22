@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ASP.NET Web Frameworks team.
+- 🔭 I’m currently working on Azure Core (Control Plane) team.
 - 💬 Ask me about: ASP.NET, Orleans, .NET
 
 <!--
